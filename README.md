@@ -1,4 +1,5 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+
+Mai Xuan Hieu
+hieumx.bi10-064@st.usth.edu.vn
